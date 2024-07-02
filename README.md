@@ -41,3 +41,4 @@ It will cycle through the credentials presented and attempt to log in with each 
 - else if Not successful:
   - A warning is displayed on screen showing the error that was received.
   - The credentials are written to BadCredentials.csv
+# TradeDesk-Check
